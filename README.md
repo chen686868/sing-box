@@ -40,16 +40,12 @@
 
 脚本的参数非常高效率并且超级易用，请掌握参数的使用
 
-# 文档
-
-安装及使用：https://233boy.com/sing-box/sing-box-script/
 
 # 帮助
 
 使用：`sing-box help`
 
 ```
-sing-box script v1.0 by 233boy
 Usage: sing-box [options]... [args]...
 
 基本:
@@ -108,7 +104,3 @@ Usage: sing-box [options]... [args]...
    [...] [...]                                     兼容绝大多数的 sing-box 命令, 例如: sing-box generate uuid
    h, help                                         显示此帮助界面
 
-谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认
-反馈问题) https://github.com/233boy/sing-box/issues
-文档(doc) https://233boy.com/sing-box/sing-box-script/
-```
